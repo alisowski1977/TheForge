@@ -22,12 +22,48 @@ The working rule:
 
 > Notion is where things are born. GitHub is where things become law.
 
+## Promotion Model
+
+Ideas do not become canon because they are clever.
+
+They earn promotion.
+
+```text
+Conversation
+    ↓
+Observation
+    ↓
+Hypothesis
+    ↓
+Principle
+    ↓
+Canon
+```
+
+The Clerk may recommend promotion.
+
+Andy approves promotion to Principle or Canon.
+
+The full model lives in `governance/PROMOTION_MODEL.md`.
+
 ## Repository Map
 
 ```text
 TheForge/
   README.md
   CONSTITUTION.md
+  governance/
+    PROMOTION_MODEL.md
+  conversation/
+    README.md
+  observations/
+    README.md
+  hypotheses/
+    README.md
+  principles/
+    README.md
+  canon/
+    README.md
   identities/
     MEMOIR_PERSONALITY.md
     ERP_ARCHITECT_IDENTITY.md
