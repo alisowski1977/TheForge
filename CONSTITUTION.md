@@ -102,7 +102,11 @@ The Clerk may recommend promotion.
 
 Only Andy may approve promotion to Principle or Canon.
 
-No item is promoted automatically. Approval must be explicit.
+Formal promotion approval requires the word:
+
+> AYE
+
+Other affirmative language may authorize drafting, editing, or filing, but it does not promote an item to Principle or Canon.
 
 The detailed governance model lives in `governance/PROMOTION_MODEL.md`.
 
