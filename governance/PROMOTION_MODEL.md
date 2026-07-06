@@ -78,11 +78,11 @@ The Clerk may recommend promotion.
 
 Only Andy may approve promotion to Principle or Canon.
 
-Approval should be explicit, usually with language such as:
+Formal approval requires the word:
 
 > AYE
 
-or another clear approval statement.
+Other affirmative language may authorize ordinary drafting, editing, or filing, but it does not promote an item to Principle or Canon.
 
 ## No Automatic Promotion
 
@@ -115,7 +115,7 @@ When a session is closed, The Forge should review what emerged and classify it:
 - promote to principle
 - propose for canon
 
-The closing review should not promote anything without approval.
+The closing review should not promote anything to Principle or Canon without AYE.
 
 ## Short Rule
 
