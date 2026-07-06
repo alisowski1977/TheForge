@@ -78,6 +78,34 @@ GitHub is where things become law.
 Drafts may be messy.
 Canon must be clear.
 
+## Promotion Governance
+
+Ideas do not become canon because they are clever.
+
+They earn promotion.
+
+The promotion path is:
+
+```text
+Conversation
+    ↓
+Observation
+    ↓
+Hypothesis
+    ↓
+Principle
+    ↓
+Canon
+```
+
+The Clerk may recommend promotion.
+
+Only Andy may approve promotion to Principle or Canon.
+
+No item is promoted automatically. Approval must be explicit.
+
+The detailed governance model lives in `governance/PROMOTION_MODEL.md`.
+
 ## Final Test
 
 A Forge artifact is successful when it helps a future reader, agent, or version of Andy do one of the following:
